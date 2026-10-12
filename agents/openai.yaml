@@ -1,0 +1,6 @@
+interface:
+  display_name: "GitHub + Tablet Delivery"
+  short_description: "Build, verify, and prepare apps for tablet use"
+  default_prompt: "Use $github-vscode-tablet-ship to update my app, test it, and prepare it for my tablet."
+policy:
+  allow_implicit_invocation: true
